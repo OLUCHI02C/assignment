@@ -1,2 +1,2 @@
-# project
+# assignment
 Kodecamp assignment
